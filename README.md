@@ -2,6 +2,6 @@
 
 LabVIEW example programs
 
-AMP Modbus TCP example is an example program to read and write Holding registers for TXM34X3B-IP motoros.
+➡️ AMP_Modbus_TCP.vi example is an example program to read and write Holding registers for TXM34X3B-IP motoros using Modbus TCP.
 
-Use Modbus user manual for other product register tables and more information.
+➡️ Use Modbus_user_manual for other product register tables and more information.
